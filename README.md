@@ -63,7 +63,7 @@ python setup_rag.py
 ```bash
 python bot_pooling.py
 ```
-- Бот будет отвечать на упоминания в Telegram (например, `@SinichkaAI_bot ваш вопрос`).
+- Бот будет отвечать на упоминания в Telegram.
 
 ---
 
