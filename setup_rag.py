@@ -27,7 +27,7 @@ def load_all_chunks():
             entry["source"] = "faq"
             chunks.append(entry)
     # Правила
-    with open("data/rules2025.json", encoding="utf-8") as f:
+    with open("data/rules2025_magistratura_only.json", encoding="utf-8") as f:
         rules = json.load(f)
         for entry in rules:
             entry = entry.copy()

@@ -113,3 +113,5 @@ dist/
 # Файл с API‑ключами и другими секретами
 keys.env
 .env
+test.ipynb
+test.ipynb
